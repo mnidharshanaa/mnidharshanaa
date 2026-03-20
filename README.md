@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**mnidharshanaa/mnidharshanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI & Data Science student working across AI engineering, data science, and full-stack development with the MERN stack.  
 
-Here are some ideas to get you started:
+My focus is on building and understanding end-to-end systems — how data is processed, how models are applied, and how these are integrated into scalable, usable applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I approach learning through implementation, with an emphasis on structured thinking, system design, and solving real-world problems rather than isolated concepts.  
+
+Continuously working on improving depth in these areas while aligning my skills toward practical, industry-relevant applications.  
+
+Open to opportunities where I can contribute, learn, and work on meaningful systems.  
+
+Reach me at: https://www.linkedin.com/in/nidharshanaa-m
